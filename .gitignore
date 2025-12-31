@@ -1,3 +1,6 @@
+output/text/distilbert_classifier/model.safetensors
+output/text/distilbert_class_checkpoints/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

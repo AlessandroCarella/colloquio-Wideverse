@@ -1,0 +1,39 @@
+================================================================================
+EXPLAINING CLASS: 6
+================================================================================
+
+Centroid Prediction: 5
+Prediction Probabilities: [1.84445267e-03 6.92949690e-05 1.67109863e-04 1.77886341e-04
+ 2.08848354e-03 3.98720834e-01 1.64834536e-01 3.37697277e-01
+ 8.90848459e-02 4.58618034e-03 7.29099548e-04]
+Predicted Class Probability: 0.3987
+
+Warning: SHAP values length (220) doesn't match features (20)
+
+----------------------------------------
+LIME FEATURE IMPORTANCE (Top 10)
+----------------------------------------
+0.00 < lang_macroarea_Africa <= 1.00: -0.006152
+-0.39 < vote_count <= -0.06   : -0.005431
+continent_South America > 0.00: -0.003626
+continent_Oceania > 0.00      : +0.003393
+genre_cluster_5 > 0.00        : -0.002842
+-0.37 < popularity <= 0.21    : -0.002287
+0.00 < continent_Asia <= 1.00 : -0.002265
+continent_Europe > 0.00       : +0.001680
+genre_cluster_2 > 0.00        : -0.001573
+continent_Africa > 0.00       : -0.001532
+
+----------------------------------------
+SHAP FEATURE IMPORTANCE (Top 10)
+----------------------------------------
+continent_South America       : -1.463302
+continent_Oceania             : -0.845738
+continent_Europe              : -0.802605
+lang_macroarea_Papunesia      : +0.756523
+lang_macroarea_Eurasia        : +0.740909
+continent_North America       : -0.498063
+lang_macroarea_Africa         : -0.463206
+lang_macroarea_North America  : +0.411926
+genre_cluster_2               : +0.238445
+genre_cluster_4               : +0.173386
