@@ -1,0 +1,29 @@
+Cluster 0 (6 generi):
+  - 10751: Family
+  - 10759: Action & Adventure
+  - 10762: Kids
+  - 10765: Sci-Fi & Fantasy
+  - 16: Animation
+  - 35: Comedy
+
+Cluster 1 (3 generi):
+  - 18: Drama
+  - 80: Crime
+  - 9648: Mystery
+
+Cluster 2 (4 generi):
+  - 10763: News
+  - 10764: Reality
+  - 10767: Talk
+  - 99: Documentary
+
+Cluster 3 (3 generi):
+  - 10749: Romance
+  - 10766: Soap
+  - 36: History
+
+Cluster 4 (1 generi):
+  - 10768: War & Politics
+
+Cluster 5 (1 generi):
+  - 37: Western
